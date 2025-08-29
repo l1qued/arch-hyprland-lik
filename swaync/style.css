@@ -78,7 +78,7 @@
 .widget-mpris {
   background: rgba(255, 255, 255, 0.05);
   border-radius: 8px;
-  padding: 0px !important; /*внутренние отступы */
+  padding: 0px !important;
   margin: 4px 0;
 }
 
@@ -97,27 +97,27 @@
 
 /* Текстовая информация */
 .player-info {
-  margin-left: 2px !important; /* отступ от обложки */
+  margin-left: 2px !important;
 }
 
 .player-title {
   font-weight: bold;
-  font-size: 7pt !important; /* размер шрифта */
+  font-size: 7pt !important;
   margin: 0;
   padding: 0;
 }
 
 .player-artist {
   opacity: 0.7;
-  font-size: 8pt !important; /* размер шрифта */
+  font-size: 8pt !important;
   margin: 0;
   padding: 0;
 }
 
 /* Панель управления (кнопки) */
 .controls {
-  margin-top: 5px !important; /* отступ сверху */
-  margin-bottom: 5px !important; /* отступ снизу */
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
 }
 
 .controls button {
@@ -125,7 +125,7 @@
   border: none;
   color: #cccccc;
   padding: 3px !important; 
-  margin: 0 2px !important; /* отступ между кнопками */
+  margin: 0 2px !important;
   min-width: 24px;
   min-height: 24px;
   border-radius: 50%;
