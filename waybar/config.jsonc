@@ -1,6 +1,7 @@
 {
     "height": 30,
     "spacing": 10,
+	"output": "DP-1",
     "modules-left": [
         "hyprland/workspaces"
     ],
